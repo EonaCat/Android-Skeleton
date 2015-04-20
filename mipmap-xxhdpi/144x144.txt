@@ -1,0 +1,5 @@
+This file can be removed
+
+In this folder an application icon needs to be placed with a size of 144x144
+
+Created by NightBits

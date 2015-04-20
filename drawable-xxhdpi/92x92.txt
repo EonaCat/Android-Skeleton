@@ -1,0 +1,5 @@
+This file can be removed
+
+In this folder images need to be placed with a size of 92x92
+
+Created by NightBits
